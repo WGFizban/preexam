@@ -1,0 +1,2 @@
+# preexam
+przygotowanie do testu
